@@ -1,4 +1,4 @@
- """ Measurements Morphology Assay: Collection of all results per larva from the morphology assay on the images acquired by automated microscopy.
+ Measurements Morphology Assay: Collection of all results per larva from the morphology assay on the images acquired by automated microscopy.
  
  Measurements Behavior Assay: Collection of all results from the behavior assay per larva from the tracking data of the swimming recording chamber.
  
@@ -12,5 +12,5 @@
  
  CovidDrugScreen_Survival: Summary of Survival rate of embryos per experiment
  
- You will also find the results of statistical analysis performed on these data here  """"
+ You will also find the results of statistical analysis performed on these data here
  
